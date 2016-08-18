@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/tjmgregory
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://theodo.red
+  * I am tjmgregory (https://keybase.io/tjmgregory) on keybase.
+  * I have a public key with fingerprint 5AAD 19D6 D82C F893 D3F1  EC77 7343 7921 2264 FC2A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01018fe122809c9fb5632958a8e1a52e178fecf543f90423a2baf50a19e58491dcd20a",
+            "fingerprint": "5aad19d6d82cf893d3f1ec77734379212264fc2a",
+            "host": "keybase.io",
+            "key_id": "734379212264fc2a",
+            "kid": "01018fe122809c9fb5632958a8e1a52e178fecf543f90423a2baf50a19e58491dcd20a",
+            "uid": "298d208bdff2fc0dde6c2d7ef56e5319",
+            "username": "tjmgregory"
+        },
+        "service": {
+            "hostname": "theodo.red",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1471532086,
+    "expire_in": 157680000,
+    "prev": "db51ea27af624d421ff5dd14c6f2a0c446d1c8863d3a89a7cb0764305239b137",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIpAnicrVJdSFRBFF4tW1v60ewhKCIuQRHLcmfu/z5UVJQKkhRmRrHMvTOzXn/u
+3e5e11YpVyoKS1KM/HkpKoqC/h5EqAgzCcroQcvIVuwh0ghiiyBLyuZKvfXYvAzn
+zPd95ztnzuDieb5AVtrpP1kW2v4ma+hhZ52vvPeZ3MjpNk5y4UaumsxdpAaTuBup
+NjEX5njAA5USAKHKa4ZGdUkWoCapSCUASZAAhb0aVBIFqvEiFBDUEZV4BDQiqaIG
+sIEhj7ggR00rSpyYY1ouk5UQwkDDMlahQVVNwAIFxFAURRAFRYOsnCxSA3rESjvu
+MZg5HcVJyLRZjgWROXv/wP9n33VzclBTWazqmFJIDR5jIhsQK4RKMpEEoHnAOHEs
+VEsY2q2qjTokajtJ7nCQY/mEaRBvtF4vfzGVxMZ2yCGYcWOO7dqGXcPyla4bi4c9
+npuMecB6okf+SER008JsjoyRIE7ctC0uDBjScE1PE4gKkARmUw5y5FDMdEjE9BCS
+Iqs8O14dkmCSWJcAQVBBVIYiFiGgVMIYiIZMIeINUZQxMFRVZt+CVA0phs4rsijw
+EhQ0HQgK5zV10LK5sMhsoiiTjJtRC7l1DuEOD/Tvn+/LCvgW5GR7++ULLMz7u3Xq
+Xf9s4ZH6PQWZMqe404yk9R+rS5t8x6/O7Jw62DHUtXe25Onll49b/ddnatstkFeU
+P/FxxYvYtfVDXX3jFc2xmSa3r8W/6XXuqcmRUetMJl11pbPo0ft7hRs+9xwIXs1M
+3MgebTgw1ns7teP2jvZjHYHUcGvFhtnxifLQq8JPbTkL7yxfMo2zKh88n1r7/dyi
+bze7G3P70jcimjD9pGNXOyiN1+y7/+vCmDN/zZqV24Ynz1/7sOxC28gXstl/NLXZ
+2tJ9Wgy/G9idGnjbUva1bnn+xcyWjQ3Fz5NTg7HEE3Hxup8rm1cUg66S9NJFt15d
+mpRwTyj5nX44M1qwteFEYPDsqmMPWn8D7UhHAg==
+=+UED
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tjmgregory
+
+==================================================================
