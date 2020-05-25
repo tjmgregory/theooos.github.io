@@ -1,0 +1,17 @@
+{
+  "name": "theodored",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "repository": "git@github.com:theooos/theooos.github.io.git",
+  "author": "Theo Gregory <tjmg@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint": "3",
+    "typescript": "3.7"
+  },
+  "dependencies": {
+    "moment": "2.26.0"
+  }
+}
