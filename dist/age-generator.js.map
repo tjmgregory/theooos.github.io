@@ -1,1 +1,0 @@
-{"version":3,"file":"age-generator.js","sourceRoot":"","sources":["../src/age-generator.ts"],"names":[],"mappings":";AAAA,8BAA8B;AAE9B,SAAS,YAAY;IACjB,OAAO,EAAE,CAAA;AACb,CAAC;AAED,SAAS,GAAG;IACR,MAAM,GAAG,GAAG,YAAY,EAAE,CAAA;IAC1B,QAAQ,CAAC,cAAc,CAAC,KAAK,CAAE,CAAC,SAAS,GAAG,GAAG,GAAG,EAAE,CAAA;AACxD,CAAC;AAED,aAAa;AACb,GAAG,EAAE,CAAA"}

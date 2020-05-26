@@ -1,0 +1,1 @@
+{"version":3,"file":"TimeFactory.js","sourceRoot":"","sources":["../src/TimeFactory.ts"],"names":[],"mappings":"AAAA,OAAO,MAAM,MAAM,iBAAiB,CAAA;AAMpC,MAAM,OAAO,WAAW;IACpB,YAA6B,QAAgB;QAAhB,aAAQ,GAAR,QAAQ,CAAQ;IAAG,CAAC;IAEjD,GAAG;QACC,OAAO,MAAM,CAAC,EAAE,CAAC,IAAI,CAAC,QAAQ,CAAC,CAAA;IACnC,CAAC;CACJ"}
