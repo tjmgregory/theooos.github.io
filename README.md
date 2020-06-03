@@ -10,8 +10,8 @@ Playground to learn what's required to build a website, and to improve ability w
 - Yarn https://yarnpkg.com/
 - NVM http://nvm.sh
 
-##### HTML Design license
-
+#### HTML Design license
+```
 Strata by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -49,3 +49,4 @@ Credits:
 		background-size polyfill (github.com/louisremi)
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
+```
