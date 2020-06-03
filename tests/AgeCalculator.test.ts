@@ -1,5 +1,5 @@
-import {AgeCalculator, IAgeCalculator} from "../src/AgeCalculator";
-import {makeTimeFactoryMock} from "./TestFactories";
+import { AgeCalculator, IAgeCalculator } from '../src/AgeCalculator'
+import { makeTimeFactoryMock } from './TestFactories'
 import moment from 'moment-timezone'
 
 describe('AgeCalculator', () => {

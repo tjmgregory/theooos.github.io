@@ -1,4 +1,4 @@
-import {ITimeFactory} from "../src/TimeFactory";
+import { ITimeFactory } from '../src/TimeFactory'
 
 export function makeTimeFactoryMock(): jest.Mocked<ITimeFactory> {
     return {
