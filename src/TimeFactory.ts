@@ -5,9 +5,9 @@ export interface ITimeFactory {
 }
 
 export class TimeFactory implements ITimeFactory {
-    constructor(private readonly timezome: string) {}
+    constructor(private readonly timezone: string) {}
 
     now(): moment.Moment {
-        return moment.tz(this.timezome)
+        return moment.tz(this.timezone)
     }
 }
