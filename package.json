@@ -1,0 +1,33 @@
+{
+  "name": "theodored",
+  "version": "1.1.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "repository": "git@github.com:theooos/theooos.github.io.git",
+  "author": "Theo Gregory <tjmg@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "lint": "eslint . --ext .ts,.tsx",
+    "fix-lint": "eslint --fix . --ext .ts,.tsx"
+  },
+  "devDependencies": {
+    "@types/jest": "25.2.3",
+    "@typescript-eslint/eslint-plugin": "3.1.0",
+    "@typescript-eslint/parser": "3.1.0",
+    "eslint": "7.1.0",
+    "jest": "26.0.1",
+    "moment-locales-webpack-plugin": "^1.2.0",
+    "moment-timezone-data-webpack-plugin": "^1.3.0",
+    "ts-jest": "26.1.0",
+    "ts-loader": "7.0.5",
+    "typescript": "3.7",
+    "webpack": "4.43.0",
+    "webpack-cli": "3.3.11"
+  },
+  "dependencies": {
+    "moment": "2.26.0",
+    "moment-timezone": "0.5.31"
+  }
+}
