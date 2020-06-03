@@ -1,13 +1,11 @@
 import moment from 'moment-timezone'
 
 export interface ITimeFactory {
-    now(): moment.Moment
+    utc(): moment.Moment
 }
 
 export class TimeFactory implements ITimeFactory {
-    constructor(private readonly timezone: string) {}
-
-    now(): moment.Moment {
-        return moment.tz(this.timezone)
+    utc(): moment.Moment {
+        return moment.utc()
     }
 }

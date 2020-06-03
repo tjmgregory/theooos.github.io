@@ -3,7 +3,7 @@ import { IAgeCalculator, AgeCalculator } from './AgeCalculator'
 
 let _timeFactory: ITimeFactory
 export function timeFactory(): ITimeFactory {
-    return _timeFactory || (_timeFactory = new TimeFactory('Europe/London'))
+    return _timeFactory || (_timeFactory = new TimeFactory())
 }
 
 let _ageCalculator: IAgeCalculator

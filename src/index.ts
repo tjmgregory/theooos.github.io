@@ -1,7 +1,7 @@
-import moment from 'moment-timezone'
 import { ageCalculator } from './config'
+import { Birthday } from './Birthday'
 
-const DOB = moment.tz('1996/04/05', 'YYYY/MM/DD', 'Europe/London')
+const DOB = new Birthday('1996-04-05', 'Europe/London')
 
 function updatePage(age: number) {
     const ageField = document.getElementById('age')
